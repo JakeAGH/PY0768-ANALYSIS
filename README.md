@@ -1,2 +1,2 @@
 # PY0768-ANALYSIS
-.RMD and affiliated files concerning the PY0768 APA style report for my MRES Psychology degree at Northumbria University. If possible, .csv files containing experiment data will be uploaded after clearance with my supervisor.
+.RMD and affiliated files concerning the PY0768 APA style report for my MRES Psychology degree at Northumbria University. .CSV files containing participant information cannot be released because consent was not gained to publish anonymised data, so this repository serves as a way to inspect my code, cleaning practices, analysis practices and so on. Results are semi-present in the .pdf file, but given these are general results and nothing in detail, the .pdf will remain unless I am instructed to remove it.
